@@ -2,6 +2,7 @@
 
 ### Interests:
 - Machine Learning and Data Science
+- NLP, Chatbots, Audio
 - Product Methodologies
 - NLP and Chatbots
 - Where tech meets music
