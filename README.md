@@ -1,12 +1,12 @@
-# Hi I'm Dougal 👋 Machine Learning Engineer at Sky
+# Hi 👋, I'm Dougal - Machine Learning Engineer @ Sky
 
-I'm interested in:
+### Interests:
 - Machine Learning and Data Science
 - Product Methodologies
 - NLP and Chatbots
 - Where tech meets music
 
-I'm best at:
+### Strongest at:
 - Python
 - Serverless Architecture (AWS)
 - Chatbots
