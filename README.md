@@ -5,7 +5,7 @@
 - NLP, Chatbots, Audio
 - Product Methodologies
 - Where tech meets music
-- Tech ethics and Philosophy
+- Tech Ethics and Philosophy
 
 ### Strongest at:
 - Python
