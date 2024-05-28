@@ -1,4 +1,4 @@
-# Hi 👋, I'm Dougal (MA, BSc) - Machine Learning Engineer @ Sky
+# Hi 👋, I'm Dougal (BA+MA, BSc) - Machine Learning Engineer @ Sky
 
 ### Interests:
 - ⚙️Machine Learning and🧑‍🔬Data Science
