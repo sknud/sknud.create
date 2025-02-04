@@ -1,6 +1,6 @@
-# Hi 👋
+# Hi 👋, welcome to my sknud's (MSc, BA) Github 
 
-# My developer handle is sknud (MSc, BA) - Machine Learning Engineer @ Sky
+## Current Occupation: Machine Learning Engineer @ Sky (Voice and AI)
 
 ### Developer Interests:
 - ⚙️Machine Learning and🧑‍🔬Data Science
